@@ -1,7 +1,7 @@
-[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/timfame/fp-homework/blob/master/LICENSE)
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/timfame/dsl/blob/main/LICENSE)
 
 DSL for my own language\
-Examples:\
+Examples:
 ```haskell
 mainFunc = twoArgFunc $ \a1 a2 returnValue -> 
   (##) (22 :: Int) $ \funny ->
